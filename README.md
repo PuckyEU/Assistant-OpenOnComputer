@@ -32,4 +32,4 @@ It will require manual setup and almost no coding.
     - Type a catchphrase to open your program on the computer, but you might have to find a specific one that works for your case, because sometimes the assitant might confuse it with other commands.
   - Add an action:
     - Pick the option `Try adding your own`
-    - Type `Open [your_ip_address]`. Replace the `[your_ip_address]` with [your computer's IP address](https://github.com/PuckyEU/Hey-Google-Open-On-Computer#obtaining-your-ip).
+    - Type `Open [your_ip_address]`. Replace the `[your_ip_address]` with [your computer's IP address](#obtaining-your-ip).
