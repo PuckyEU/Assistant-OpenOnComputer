@@ -5,6 +5,10 @@ Guide on how to set up a Google Assistant command to open an application on your
 
 It will require manual setup and almost no coding.
 
+## Table of Contents
+- [Obtaining your IP](#obtaining-your-ip)
+- [How to Setup the Google Assitant Command](#how-to-setup-the-google-assitant-command)
+
 ## Obtaining your IP
 #### Windows:
 - Press the Windows key + R to open the Run dialog box.
