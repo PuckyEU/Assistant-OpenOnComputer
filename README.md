@@ -7,6 +7,9 @@ It will require manual setup and almost no coding.
 
 ## Table of Contents
 - [Obtaining your IP](#obtaining-your-ip)
+  - [Windows](#windows)
+  - [MacOS](#macos)
+  - [Linux](#linux)
 - [How to Setup the Google Assitant Command](#how-to-setup-the-google-assitant-command)
 
 ## Obtaining your IP
