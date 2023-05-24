@@ -40,3 +40,4 @@ It will require manual setup and almost no coding.
   - Add an action:
     - Pick the option `Try adding your own`
     - Type `Open [your_ip_address]`. Replace the `[your_ip_address]` with [your computer's IP address](#obtaining-your-ip).
+<img src="/Images/google_home.png" alt="Google Home App" width="500"/>
