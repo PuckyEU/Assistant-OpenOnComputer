@@ -1,5 +1,5 @@
 # Hey Google, Open ... On My Computer
-<blockquote>Note that this guide is still in developement and might not have all of the steps neccesary.</blockquote>
+<blockquote>Note that this guide is still in development and might not have all the steps necessary.</blockquote>
 
 Guide on how to set up a Google Assistant command to open an application on your computer.
 
@@ -10,7 +10,7 @@ It will require manual setup and almost no coding.
   - [Windows](#windows)
   - [MacOS](#macos)
   - [Linux](#linux)
-- [How to Setup the Google Assitant Command](#how-to-setup-the-google-assitant-command)
+- [How to Set up the Google Assistant Command](#how-to-set-up-the-google-assistant-command)
 
 ## Obtaining your IP
 #### Windows:
@@ -29,7 +29,7 @@ It will require manual setup and almost no coding.
 - Type ifconfig and press Enter.
 - Look for the "inet" or "inet6" address associated with your network interface. This address represents your computer's IP address.
 
-## How to Setup the Google Assitant Command
+## How to Set up the Google Assistant Command
 - Open the Google Home app
 - Go to the Automations Tab
 - Create a new Automation:
