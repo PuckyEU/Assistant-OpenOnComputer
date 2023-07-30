@@ -6,11 +6,25 @@ Guide on how to set up a Google Assistant command to open an application on your
 It will require manual setup and almost no coding.
 
 ## Table of Contents
+- [General Idea](#general-idea)
 - [Obtaining your IP](#obtaining-your-ip)
   - [Windows](#windows)
   - [MacOS](#macos)
   - [Linux](#linux)
 - [How to Set up the Google Assistant Command](#how-to-set-up-the-google-assistant-command)
+
+## General Idea
+This program would run a local server on the computer you want to open something on. The server would have code that would open a website whenever someone entered a specific link. For example, if you wanted to open Netflix, you would enter the link `[computer_ip]:8080/netflix`. The server would recognize that you want to open Netflix and open the website.
+
+You can also use custom routines in the Google Home app to simplify this process. You can create a routine that, when you say "Hey Google, open Netflix on my TV," the assistant will open the link `[computer_ip]:8080/netflix`. [Here](#how-to-set-up-the-google-assistant-command) is a guide on how to do this.
+
+Here is a more detailed explanation of how the program would work:
+
+1. The program would start a local server on the computer you want to open something on.
+2. The server would have code that would open a website whenever someone entered a specific link.
+3. When someone entered the link, the server would recognize the link and open the website.
+4. You could also create a custom routine in the Google Home app to simplify this process.
+5. The custom routine would, when you said a specific phrase, open the link.
 
 ## Obtaining your IP
 #### Windows:
