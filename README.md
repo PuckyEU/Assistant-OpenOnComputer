@@ -1,5 +1,6 @@
 # Hey Google, Open ... On My Computer
-<blockquote>Note that this guide is still in development and might not have all the steps necessary.</blockquote>
+> [!NOTE]
+> This guide is still in development and might not contain all the steps necessary to achieve complete functionality.
 
 Guide on how to set up a Google Assistant command to open an application on your computer.
 
